@@ -33,7 +33,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "filestorebot")
 
 #force sub channel id, if you want enable force sub
 
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", ""))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002222990600"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
