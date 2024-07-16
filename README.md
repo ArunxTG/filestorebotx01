@@ -56,6 +56,16 @@ I Guess This Will Be Usefull For Many People.....😇.
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
+---
+description: Deploying Rocket.Chat on Scalingo
+---
+
+# Scalingo
+
+Deploy your own Rocket.Chat server instantly on [Scalingo](https://scalingo.com)
+
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/ArunxTG/filestorebotx01)
+
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
